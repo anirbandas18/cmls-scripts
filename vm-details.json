@@ -1,0 +1,396 @@
+[ {
+  "Name" : "c3.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 60,
+  "PricePerUnit" : 0.4826
+}, {
+  "Name" : "p2.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 488,
+  "PricePerUnit" : 7.2
+}, {
+  "Name" : "c3.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 15,
+  "PricePerUnit" : 0.1168
+}, {
+  "Name" : "i3.large",
+  "CoreCount" : 2,
+  "Memory" : 15.25,
+  "PricePerUnit" : 0.0468
+}, {
+  "Name" : "i3.16xlarge",
+  "CoreCount" : 64,
+  "Memory" : 488,
+  "PricePerUnit" : 1.4976
+}, {
+  "Name" : "p2.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 61,
+  "PricePerUnit" : 0.2724
+}, {
+  "Name" : "g3.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 244,
+  "PricePerUnit" : 0.684
+}, {
+  "Name" : "hi1.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 60.5,
+  "PricePerUnit" : 0.0
+}, {
+  "Name" : "c1.xlarge",
+  "CoreCount" : 8,
+  "Memory" : 7,
+  "PricePerUnit" : 0.0665
+}, {
+  "Name" : "m4.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 16,
+  "PricePerUnit" : 0.0644
+}, {
+  "Name" : "g2.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 15,
+  "PricePerUnit" : 0.2502
+}, {
+  "Name" : "r3.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 30.5,
+  "PricePerUnit" : 0.0791
+}, {
+  "Name" : "c1.medium",
+  "CoreCount" : 2,
+  "Memory" : 1.7,
+  "PricePerUnit" : 0.013
+}, {
+  "Name" : "r3.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 244,
+  "PricePerUnit" : 0.514
+}, {
+  "Name" : "c3.large",
+  "CoreCount" : 2,
+  "Memory" : 3.75,
+  "PricePerUnit" : 0.0292
+}, {
+  "Name" : "r4.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 61,
+  "PricePerUnit" : 0.1365
+}, {
+  "Name" : "t2.micro",
+  "CoreCount" : 1,
+  "Memory" : 1,
+  "PricePerUnit" : 0.0035
+}, {
+  "Name" : "m1.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 15,
+  "PricePerUnit" : 0.035
+}, {
+  "Name" : "r3.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 122,
+  "PricePerUnit" : 0.2755
+}, {
+  "Name" : "hs1.8xlarge",
+  "CoreCount" : 17,
+  "Memory" : 117,
+  "PricePerUnit" : 0.0
+}, {
+  "Name" : "i3.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 30.5,
+  "PricePerUnit" : 0.0936
+}, {
+  "Name" : "x1.32xlarge",
+  "CoreCount" : 128,
+  "Memory" : 1952,
+  "PricePerUnit" : 4.0014
+}, {
+  "Name" : "c4.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 15,
+  "PricePerUnit" : 0.1233
+}, {
+  "Name" : "x1.16xlarge",
+  "CoreCount" : 64,
+  "Memory" : 976,
+  "PricePerUnit" : 2.0007
+}, {
+  "Name" : "i2.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 61,
+  "PricePerUnit" : 0.5115
+}, {
+  "Name" : "m4.large",
+  "CoreCount" : 2,
+  "Memory" : 8,
+  "PricePerUnit" : 0.0322
+}, {
+  "Name" : "m3.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 30,
+  "PricePerUnit" : 0.1252
+}, {
+  "Name" : "r3.large",
+  "CoreCount" : 2,
+  "Memory" : 15.25,
+  "PricePerUnit" : 0.0321
+}, {
+  "Name" : "r4.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 122,
+  "PricePerUnit" : 0.2873
+}, {
+  "Name" : "t2.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 32,
+  "PricePerUnit" : 0.1114
+}, {
+  "Name" : "t2.small",
+  "CoreCount" : 1,
+  "Memory" : 2,
+  "PricePerUnit" : 0.0069
+}, {
+  "Name" : "p2.16xlarge",
+  "CoreCount" : 64,
+  "Memory" : 768,
+  "PricePerUnit" : 14.4
+}, {
+  "Name" : "m3.medium",
+  "CoreCount" : 1,
+  "Memory" : 3.75,
+  "PricePerUnit" : 0.0067
+}, {
+  "Name" : "t2.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 16,
+  "PricePerUnit" : 0.0557
+}, {
+  "Name" : "t2.nano",
+  "CoreCount" : 1,
+  "Memory" : 0.5,
+  "PricePerUnit" : 0.0
+}, {
+  "Name" : "r4.16xlarge",
+  "CoreCount" : 64,
+  "Memory" : 488,
+  "PricePerUnit" : 1.0793
+}, {
+  "Name" : "i2.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 30.5,
+  "PricePerUnit" : 0.2559
+}, {
+  "Name" : "d2.8xlarge",
+  "CoreCount" : 36,
+  "Memory" : 244,
+  "PricePerUnit" : 1.656
+}, {
+  "Name" : "m1.medium",
+  "CoreCount" : 1,
+  "Memory" : 3.75,
+  "PricePerUnit" : 0.0087
+}, {
+  "Name" : "d2.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 122,
+  "PricePerUnit" : 0.828
+}, {
+  "Name" : "i3.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 244,
+  "PricePerUnit" : 0.8415
+}, {
+  "Name" : "t1.micro",
+  "CoreCount" : 1,
+  "Memory" : 0.613,
+  "PricePerUnit" : 0.002
+}, {
+  "Name" : "i3.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 122,
+  "PricePerUnit" : 0.3744
+}, {
+  "Name" : "g3.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 122,
+  "PricePerUnit" : 0.3873
+}, {
+  "Name" : "f1.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 122,
+  "PricePerUnit" : 0.495
+}, {
+  "Name" : "m4.10xlarge",
+  "CoreCount" : 40,
+  "Memory" : 160,
+  "PricePerUnit" : 0.6463
+}, {
+  "Name" : "r4.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 30.5,
+  "PricePerUnit" : 0.0675
+}, {
+  "Name" : "cg1.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 22.5,
+  "PricePerUnit" : 0.0
+}, {
+  "Name" : "m2.2xlarge",
+  "CoreCount" : 4,
+  "Memory" : 34.2,
+  "PricePerUnit" : 0.049
+}, {
+  "Name" : "d2.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 30.5,
+  "PricePerUnit" : 0.207
+}, {
+  "Name" : "i2.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 244,
+  "PricePerUnit" : 2.046
+}, {
+  "Name" : "cr1.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 244,
+  "PricePerUnit" : 3.5
+}, {
+  "Name" : "r3.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 61,
+  "PricePerUnit" : 0.1389
+}, {
+  "Name" : "r4.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 244,
+  "PricePerUnit" : 0.5396
+}, {
+  "Name" : "r4.large",
+  "CoreCount" : 2,
+  "Memory" : 15.25,
+  "PricePerUnit" : 0.0337
+}, {
+  "Name" : "m4.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 32,
+  "PricePerUnit" : 0.1288
+}, {
+  "Name" : "m4.16xlarge",
+  "CoreCount" : 64,
+  "Memory" : 256,
+  "PricePerUnit" : 1.0396
+}, {
+  "Name" : "t2.large",
+  "CoreCount" : 2,
+  "Memory" : 8,
+  "PricePerUnit" : 0.0278
+}, {
+  "Name" : "c3.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 7.5,
+  "PricePerUnit" : 0.0587
+}, {
+  "Name" : "g3.16xlarge",
+  "CoreCount" : 64,
+  "Memory" : 488,
+  "PricePerUnit" : 3.8792
+}, {
+  "Name" : "f1.16xlarge",
+  "CoreCount" : 64,
+  "Memory" : 976,
+  "PricePerUnit" : 13.2
+}, {
+  "Name" : "m4.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 64,
+  "PricePerUnit" : 0.2864
+}, {
+  "Name" : "i2.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 122,
+  "PricePerUnit" : 1.023
+}, {
+  "Name" : "m1.small",
+  "CoreCount" : 1,
+  "Memory" : 1.7,
+  "PricePerUnit" : 0.0044
+}, {
+  "Name" : "m2.xlarge",
+  "CoreCount" : 2,
+  "Memory" : 17.1,
+  "PricePerUnit" : 0.0245
+}, {
+  "Name" : "g2.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 60,
+  "PricePerUnit" : 0.9054
+}, {
+  "Name" : "m3.large",
+  "CoreCount" : 2,
+  "Memory" : 7.5,
+  "PricePerUnit" : 0.0307
+}, {
+  "Name" : "d2.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 61,
+  "PricePerUnit" : 0.414
+}, {
+  "Name" : "m1.large",
+  "CoreCount" : 2,
+  "Memory" : 7.5,
+  "PricePerUnit" : 0.1327
+}, {
+  "Name" : "i3.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 61,
+  "PricePerUnit" : 0.1872
+}, {
+  "Name" : "cc2.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 60.5,
+  "PricePerUnit" : 0.2119
+}, {
+  "Name" : "c4.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 30,
+  "PricePerUnit" : 0.2493
+}, {
+  "Name" : "c4.8xlarge",
+  "CoreCount" : 36,
+  "Memory" : 60,
+  "PricePerUnit" : 0.4906
+}, {
+  "Name" : "c4.large",
+  "CoreCount" : 2,
+  "Memory" : 3.75,
+  "PricePerUnit" : 0.0307
+}, {
+  "Name" : "m3.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 15,
+  "PricePerUnit" : 0.0636
+}, {
+  "Name" : "t2.medium",
+  "CoreCount" : 2,
+  "Memory" : 4,
+  "PricePerUnit" : 0.0139
+}, {
+  "Name" : "m2.4xlarge",
+  "CoreCount" : 8,
+  "Memory" : 68.4,
+  "PricePerUnit" : 0.1236
+}, {
+  "Name" : "c4.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 7.5,
+  "PricePerUnit" : 0.0613
+}, {
+  "Name" : "c3.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 30,
+  "PricePerUnit" : 0.2427
+} ]

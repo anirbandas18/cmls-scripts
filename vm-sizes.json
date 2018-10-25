@@ -1,0 +1,317 @@
+[ {
+  "Name" : "c3.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 60
+}, {
+  "Name" : "p2.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 488
+}, {
+  "Name" : "c3.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 15
+}, {
+  "Name" : "i3.large",
+  "CoreCount" : 2,
+  "Memory" : 15.25
+}, {
+  "Name" : "i3.16xlarge",
+  "CoreCount" : 64,
+  "Memory" : 488
+}, {
+  "Name" : "p2.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 61
+}, {
+  "Name" : "g3.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 244
+}, {
+  "Name" : "hi1.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 60.5
+}, {
+  "Name" : "c1.xlarge",
+  "CoreCount" : 8,
+  "Memory" : 7
+}, {
+  "Name" : "m4.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 16
+}, {
+  "Name" : "g2.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 15
+}, {
+  "Name" : "r3.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 30.5
+}, {
+  "Name" : "c1.medium",
+  "CoreCount" : 2,
+  "Memory" : 1.7
+}, {
+  "Name" : "r3.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 244
+}, {
+  "Name" : "c3.large",
+  "CoreCount" : 2,
+  "Memory" : 3.75
+}, {
+  "Name" : "r4.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 61
+}, {
+  "Name" : "t2.micro",
+  "CoreCount" : 1,
+  "Memory" : 1
+}, {
+  "Name" : "m1.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 15
+}, {
+  "Name" : "r3.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 122
+}, {
+  "Name" : "hs1.8xlarge",
+  "CoreCount" : 17,
+  "Memory" : 117
+}, {
+  "Name" : "i3.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 30.5
+}, {
+  "Name" : "x1.32xlarge",
+  "CoreCount" : 128,
+  "Memory" : 1952
+}, {
+  "Name" : "c4.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 15
+}, {
+  "Name" : "x1.16xlarge",
+  "CoreCount" : 64,
+  "Memory" : 976
+}, {
+  "Name" : "i2.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 61
+}, {
+  "Name" : "m4.large",
+  "CoreCount" : 2,
+  "Memory" : 8
+}, {
+  "Name" : "m3.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 30
+}, {
+  "Name" : "r3.large",
+  "CoreCount" : 2,
+  "Memory" : 15.25
+}, {
+  "Name" : "r4.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 122
+}, {
+  "Name" : "t2.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 32
+}, {
+  "Name" : "t2.small",
+  "CoreCount" : 1,
+  "Memory" : 2
+}, {
+  "Name" : "p2.16xlarge",
+  "CoreCount" : 64,
+  "Memory" : 768
+}, {
+  "Name" : "m3.medium",
+  "CoreCount" : 1,
+  "Memory" : 3.75
+}, {
+  "Name" : "t2.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 16
+}, {
+  "Name" : "t2.nano",
+  "CoreCount" : 1,
+  "Memory" : 0.5
+}, {
+  "Name" : "r4.16xlarge",
+  "CoreCount" : 64,
+  "Memory" : 488
+}, {
+  "Name" : "i2.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 30.5
+}, {
+  "Name" : "d2.8xlarge",
+  "CoreCount" : 36,
+  "Memory" : 244
+}, {
+  "Name" : "m1.medium",
+  "CoreCount" : 1,
+  "Memory" : 3.75
+}, {
+  "Name" : "d2.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 122
+}, {
+  "Name" : "i3.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 244
+}, {
+  "Name" : "t1.micro",
+  "CoreCount" : 1,
+  "Memory" : 0.613
+}, {
+  "Name" : "i3.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 122
+}, {
+  "Name" : "g3.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 122
+}, {
+  "Name" : "f1.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 122
+}, {
+  "Name" : "m4.10xlarge",
+  "CoreCount" : 40,
+  "Memory" : 160
+}, {
+  "Name" : "r4.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 30.5
+}, {
+  "Name" : "cg1.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 22.5
+}, {
+  "Name" : "m2.2xlarge",
+  "CoreCount" : 4,
+  "Memory" : 34.2
+}, {
+  "Name" : "d2.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 30.5
+}, {
+  "Name" : "i2.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 244
+}, {
+  "Name" : "cr1.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 244
+}, {
+  "Name" : "r3.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 61
+}, {
+  "Name" : "r4.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 244
+}, {
+  "Name" : "r4.large",
+  "CoreCount" : 2,
+  "Memory" : 15.25
+}, {
+  "Name" : "m4.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 32
+}, {
+  "Name" : "m4.16xlarge",
+  "CoreCount" : 64,
+  "Memory" : 256
+}, {
+  "Name" : "t2.large",
+  "CoreCount" : 2,
+  "Memory" : 8
+}, {
+  "Name" : "c3.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 7.5
+}, {
+  "Name" : "g3.16xlarge",
+  "CoreCount" : 64,
+  "Memory" : 488
+}, {
+  "Name" : "f1.16xlarge",
+  "CoreCount" : 64,
+  "Memory" : 976
+}, {
+  "Name" : "m4.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 64
+}, {
+  "Name" : "i2.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 122
+}, {
+  "Name" : "m1.small",
+  "CoreCount" : 1,
+  "Memory" : 1.7
+}, {
+  "Name" : "m2.xlarge",
+  "CoreCount" : 2,
+  "Memory" : 17.1
+}, {
+  "Name" : "g2.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 60
+}, {
+  "Name" : "m3.large",
+  "CoreCount" : 2,
+  "Memory" : 7.5
+}, {
+  "Name" : "d2.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 61
+}, {
+  "Name" : "m1.large",
+  "CoreCount" : 2,
+  "Memory" : 7.5
+}, {
+  "Name" : "i3.2xlarge",
+  "CoreCount" : 8,
+  "Memory" : 61
+}, {
+  "Name" : "cc2.8xlarge",
+  "CoreCount" : 32,
+  "Memory" : 60.5
+}, {
+  "Name" : "c4.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 30
+}, {
+  "Name" : "c4.8xlarge",
+  "CoreCount" : 36,
+  "Memory" : 60
+}, {
+  "Name" : "c4.large",
+  "CoreCount" : 2,
+  "Memory" : 3.75
+}, {
+  "Name" : "m3.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 15
+}, {
+  "Name" : "t2.medium",
+  "CoreCount" : 2,
+  "Memory" : 4
+}, {
+  "Name" : "m2.4xlarge",
+  "CoreCount" : 8,
+  "Memory" : 68.4
+}, {
+  "Name" : "c4.xlarge",
+  "CoreCount" : 4,
+  "Memory" : 7.5
+}, {
+  "Name" : "c3.4xlarge",
+  "CoreCount" : 16,
+  "Memory" : 30
+} ]
